@@ -1,2 +1,2 @@
-# exemplo-KNN
+# KNN-classification-of-titanic-victims
  
